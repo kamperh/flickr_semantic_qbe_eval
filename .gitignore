@@ -1,0 +1,13 @@
+*
+!*/
+!.*
+!*.py
+!*.pyx
+!*.md
+!*.sh
+!*.ipynb
+!*.conf
+!Makefile
+!data/*
+!kaldi_features/steps/*
+!kaldi_features/utils/*
