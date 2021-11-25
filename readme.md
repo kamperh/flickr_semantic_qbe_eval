@@ -84,6 +84,10 @@ be performed as follows:
 
 ## Example
 
+To follow this example, download
+<https://github.com/kamperh/flickr_semantic_qbe_eval/releases/download/v1.0/dtw_costs_test.json.zip>
+and extract it in `exp/`. These are the baseline DTW costs.
+
 Using the example file stored in `exp/dtw_costs_test.json`, if you run
 
     ./eval_semantic_qbe.py exp/dtw_costs_test.json
