@@ -8,9 +8,9 @@
 This code performs the evaluation for the semantic query-by-example (QbE)
 speech search task described in the paper:
 
-- H. Kamper, A. Anastassiou, and K. Livescu, "Semantic query-by-example speech
-  search using visual grounding," in Proc. ICASSP, 2019.
-  [arXiv](https://arxiv.org/abs/1904.07078)
+> H. Kamper, A. Anastassiou, and K. Livescu, "Semantic query-by-example speech
+> search using visual grounding," in Proc. ICASSP, 2019.
+> [[arXiv](https://arxiv.org/abs/1904.07078)]
 
 Please cite this paper if you use the code.
 
