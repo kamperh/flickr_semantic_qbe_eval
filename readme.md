@@ -1,4 +1,4 @@
-# Semantic QbE Evaluation on the Flickr8k Audio Captions Corpus
+# Semantic QbE Evaluation on the Flickr Audio Captions Corpus
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](license.md)
 
