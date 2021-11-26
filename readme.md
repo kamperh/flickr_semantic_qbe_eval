@@ -31,7 +31,7 @@ a given search query.
 The queries are given in the `data/{dev,test}_query_segments.txt` files. Each
 line is
 
-    query_key word_type utterance start_time end_time
+    query_key word_type utterance start_time duration
 
 The search utterances are given in `data/{dev,test}_search_segments.txt` which
 simply lists the search utterances.
