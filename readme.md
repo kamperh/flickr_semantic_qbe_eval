@@ -19,7 +19,7 @@ performed here. The models used in the above paper are very similar to those
 produced with [this
 recipe](https://github.com/kamperh/recipe_semantic_flickraudio).
 
-The Flickr Audio Captions Corpus data is available
+The Flickr Audio Captions Corpus is available
 [here](https://groups.csail.mit.edu/sls/downloads/flickraudio/).
 
 
